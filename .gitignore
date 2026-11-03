@@ -1,0 +1,24 @@
+# Lokale KiCad-Einstellungen und Historie
+*.kicad_prl
+*.lck
+~$*
+_autosave-*
+*.bak
+*.tmp
+*-backups/
+_restore_backup_*/
+.history/
+
+# Betriebssystemdateien
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Private Dateien und Sicherungsarchive
+.env
+.env.*
+!.env.example
+*.bundle
+*.zip
+*.pem
+*.key
